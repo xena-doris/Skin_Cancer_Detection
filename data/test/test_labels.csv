@@ -1,0 +1,139 @@
+isic_id,malignant,attribution,copyright_license,lesion_id,iddx_full,iddx_1,iddx_2,iddx_3,iddx_4,mel_mitotic_index,mel_thick_mm,tbp_lv_dnn_lesion_confidence,multi_label
+ISIC_9766200,0,Memorial Sloan Kettering Cancer Center,CC-BY,,Benign,Benign,,,,,,100.0,0
+ISIC_6116359,0,"Frazer Institute, The University of Queensland, Dermatology Research Centre",CC-BY,IL_2456274,Benign,Benign,,,,,,99.13149,0
+ISIC_4221683,0,Memorial Sloan Kettering Cancer Center,CC-BY,,Benign,Benign,,,,,,99.99362,0
+ISIC_2787880,1,"Frazer Institute, The University of Queensland, Dermatology Research Centre",CC-BY,IL_9307419,Malignant::Malignant epidermal proliferations::Squamous cell carcinoma in situ,Malignant,Malignant epidermal proliferations,Squamous cell carcinoma in situ,,,,94.6987986564636,2
+ISIC_8412135,1,Memorial Sloan Kettering Cancer Center,CC-BY,IL_1433993,Malignant::Malignant epidermal proliferations::Squamous cell carcinoma in situ,Malignant,Malignant epidermal proliferations,Squamous cell carcinoma in situ,,,,50.4312753677368,2
+ISIC_6334282,1,Memorial Sloan Kettering Cancer Center,CC-BY,IL_6347748,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Superficial",Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Basal cell carcinoma, Superficial",,,99.85698,3
+ISIC_9047938,0,Memorial Sloan Kettering Cancer Center,CC-BY,,Benign,Benign,,,,,,99.98821,0
+ISIC_1705108,1,"Frazer Institute, The University of Queensland, Dermatology Research Centre",CC-BY,IL_7008082,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular",Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Basal cell carcinoma, Nodular",,,36.3372266292572,3
+ISIC_8674454,0,Memorial Sloan Kettering Cancer Center,CC-BY,,Benign,Benign,,,,,,75.81943,0
+ISIC_3141351,0,"Frazer Institute, The University of Queensland, Dermatology Research Centre",CC-BY,,Benign,Benign,,,,,,100.0,0
+ISIC_5520064,0,"Department of Dermatology, University of Athens, Andreas Syggros Hospital of Skin and Venereal Diseases, Alexander Stratigos, Konstantinos Liopyris",CC-BY,,Benign,Benign,,,,,,99.999988079071,0
+ISIC_2764227,1,Memorial Sloan Kettering Cancer Center,CC-BY,IL_2024441,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular",Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Basal cell carcinoma, Nodular",,,97.8511,3
+ISIC_7105211,1,Memorial Sloan Kettering Cancer Center,CC-BY,IL_2458872,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular",Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Basal cell carcinoma, Nodular",,,93.91199,3
+ISIC_3438899,0,Memorial Sloan Kettering Cancer Center,CC-BY,,Benign,Benign,,,,,,99.8674511909485,0
+ISIC_7989726,1,Memorial Sloan Kettering Cancer Center,CC-BY,IL_7032993,Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,,,,99.9999403953552,2
+ISIC_3137703,0,"Department of Dermatology, University of Athens, Andreas Syggros Hospital of Skin and Venereal Diseases, Alexander Stratigos, Konstantinos Liopyris",CC-BY,,Benign,Benign,,,,,,99.93099,0
+ISIC_6465391,1,Memorial Sloan Kettering Cancer Center,CC-BY,IL_6925525,"Malignant::Malignant epidermal proliferations::Squamous cell carcinoma, Invasive",Malignant,Malignant epidermal proliferations,"Squamous cell carcinoma, Invasive",,,,0.01221329,2
+ISIC_5143941,1,Memorial Sloan Kettering Cancer Center,CC-BY,IL_1592507,Malignant::Malignant epidermal proliferations::Squamous cell carcinoma in situ,Malignant,Malignant epidermal proliferations,Squamous cell carcinoma in situ,,,,87.41574,2
+ISIC_9739543,0,Memorial Sloan Kettering Cancer Center,CC-BY,,Benign,Benign,,,,,,56.45141,0
+ISIC_5475654,1,"Frazer Institute, The University of Queensland, Dermatology Research Centre",CC-BY,IL_9199251,Malignant::Malignant epidermal proliferations::Squamous cell carcinoma in situ,Malignant,Malignant epidermal proliferations,Squamous cell carcinoma in situ,,,,89.9767994880676,2
+ISIC_2746016,1,Memorial Sloan Kettering Cancer Center,CC-BY,IL_2039298,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Superficial",Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Basal cell carcinoma, Superficial",,,99.99986,3
+ISIC_9941636,1,Memorial Sloan Kettering Cancer Center,CC-BY,IL_6366837,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular",Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Basal cell carcinoma, Nodular",,,99.98553,3
+ISIC_4777020,0,Memorial Sloan Kettering Cancer Center,CC-BY,,Benign,Benign,,,,,,87.0153784751892,0
+ISIC_5536448,1,"Frazer Institute, The University of Queensland, Dermatology Research Centre",CC-BY,IL_3143563,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular",Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Basal cell carcinoma, Nodular",,,99.99698,3
+ISIC_3581982,1,ACEMID MIA,CC-0,IL_6436012,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ::Melanoma in situ, associated with a nevus",Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,"Melanoma in situ, associated with a nevus",,,99.98614,3
+ISIC_5042859,1,ACEMID MIA,CC-0,IL_4424739,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ::Melanoma in situ, associated with a nevus",Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,"Melanoma in situ, associated with a nevus",,,99.99999,3
+ISIC_4021860,0,ACEMID MIA,CC-0,,Benign,Benign,,,,,,99.9847888946533,0
+ISIC_8632091,0,"Frazer Institute, The University of Queensland, Dermatology Research Centre",CC-BY,,Benign,Benign,,,,,,100.0,0
+ISIC_5583714,1,ACEMID MIA,CC-0,IL_7384098,Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,,,,99.9999523162842,2
+ISIC_6665759,1,Memorial Sloan Kettering Cancer Center,CC-BY,IL_4081663,Malignant::Malignant epidermal proliferations::Squamous cell carcinoma in situ,Malignant,Malignant epidermal proliferations,Squamous cell carcinoma in situ,,,,92.3046827316284,2
+ISIC_9996602,1,Memorial Sloan Kettering Cancer Center,CC-BY,IL_2734444,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular",Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Basal cell carcinoma, Nodular",,,99.57259,3
+ISIC_7786726,0,"Frazer Institute, The University of Queensland, Dermatology Research Centre",CC-BY,,Benign,Benign,,,,,,99.9996781349182,0
+ISIC_7442925,0,Memorial Sloan Kettering Cancer Center,CC-BY,,Benign,Benign,,,,,,99.99985,0
+ISIC_6012795,0,ACEMID MIA,CC-0,,Benign,Benign,,,,,,99.99886,0
+ISIC_4114301,1,ACEMID MIA,CC-0,IL_0358115,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ::Melanoma in situ, Superficial spreading",Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,"Melanoma in situ, Superficial spreading",,,100.0,3
+ISIC_4027092,0,"Frazer Institute, The University of Queensland, Dermatology Research Centre",CC-BY,,Benign,Benign,,,,,,100.0,0
+ISIC_1020240,1,Memorial Sloan Kettering Cancer Center,CC-BY,IL_4783573,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular",Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Basal cell carcinoma, Nodular",,,2.91239470243454,3
+ISIC_3705092,1,Memorial Sloan Kettering Cancer Center,CC-BY,IL_4157905,Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,,,,99.99768,2
+ISIC_7329678,0,"Department of Dermatology, University of Athens, Andreas Syggros Hospital of Skin and Venereal Diseases, Alexander Stratigos, Konstantinos Liopyris",CC-BY,,Benign,Benign,,,,,,99.9999403953552,0
+ISIC_5366444,1,"Frazer Institute, The University of Queensland, Dermatology Research Centre",CC-BY,IL_6131563,Malignant::Malignant epidermal proliferations::Squamous cell carcinoma in situ,Malignant,Malignant epidermal proliferations,Squamous cell carcinoma in situ,,,,32.5366109609604,2
+ISIC_0620411,0,"Frazer Institute, The University of Queensland, Dermatology Research Centre",CC-BY,,Benign,Benign,,,,,,53.1034529209137,0
+ISIC_7725734,0,"Frazer Institute, The University of Queensland, Dermatology Research Centre",CC-BY,IL_8757472,Benign,Benign,,,,,,99.99985,0
+ISIC_9932535,0,Memorial Sloan Kettering Cancer Center,CC-BY,,Benign,Benign,,,,,,97.99899,0
+ISIC_1749649,0,"Frazer Institute, The University of Queensland, Dermatology Research Centre",CC-BY,,Benign,Benign,,,,,,99.99087,0
+ISIC_2892876,0,Memorial Sloan Kettering Cancer Center,CC-BY,,Benign,Benign,,,,,,99.9998,0
+ISIC_6395169,1,"Department of Dermatology, University of Athens, Andreas Syggros Hospital of Skin and Venereal Diseases, Alexander Stratigos, Konstantinos Liopyris",CC-BY,IL_6949777,Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma Invasive,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,,0/mm^2,0.5,1.421127,2
+ISIC_7121605,0,Memorial Sloan Kettering Cancer Center,CC-BY,,Benign,Benign,,,,,,99.956089258194,0
+ISIC_7033179,0,"Frazer Institute, The University of Queensland, Dermatology Research Centre",CC-BY,IL_8617452,Benign,Benign,,,,,,100.0,0
+ISIC_4580377,0,ACEMID MIA,CC-0,,Benign,Benign,,,,,,93.50437,0
+ISIC_8558714,0,Memorial Sloan Kettering Cancer Center,CC-BY,,Benign,Benign,,,,,,99.999737739563,0
+ISIC_7054085,1,Memorial Sloan Kettering Cancer Center,CC-BY,IL_3304344,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma Invasive::Melanoma Invasive, Associated with a nevus",Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,"Melanoma Invasive, Associated with a nevus",<1/mm^2,0.3,99.99456,3
+ISIC_0303783,0,Memorial Sloan Kettering Cancer Center,CC-BY,,Benign,Benign,,,,,,100.0,0
+ISIC_4495429,1,"Frazer Institute, The University of Queensland, Dermatology Research Centre",CC-BY,IL_7185490,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Superficial",Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Basal cell carcinoma, Superficial",,,99.99982,3
+ISIC_4252342,1,Memorial Sloan Kettering Cancer Center,CC-BY,IL_6140035,Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,,,,0.0503814197145402,2
+ISIC_5779978,0,Memorial Sloan Kettering Cancer Center,CC-BY,,Benign,Benign,,,,,,99.99515,0
+ISIC_8731383,1,"Frazer Institute, The University of Queensland, Dermatology Research Centre",CC-BY,IL_9501924,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular",Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Basal cell carcinoma, Nodular",,,99.6381282806396,3
+ISIC_8927029,0,Memorial Sloan Kettering Cancer Center,CC-BY,,Benign,Benign,,,,,,99.92713,0
+ISIC_7905038,0,Memorial Sloan Kettering Cancer Center,CC-BY,,Benign,Benign,,,,,,99.9862551689148,0
+ISIC_9726753,1,"Frazer Institute, The University of Queensland, Dermatology Research Centre",CC-BY,IL_3462404,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular",Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Basal cell carcinoma, Nodular",,,99.9992609024048,3
+ISIC_0913558,0,"Frazer Institute, The University of Queensland, Dermatology Research Centre",CC-BY,,Benign,Benign,,,,,,99.9994277954102,0
+ISIC_8761604,0,"Frazer Institute, The University of Queensland, Dermatology Research Centre",CC-BY,,Benign,Benign,,,,,,95.365297794342,0
+ISIC_1257488,1,ACEMID MIA,CC-0,IL_0615040,Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,,,,99.9427855014801,2
+ISIC_3467026,1,Memorial Sloan Kettering Cancer Center,CC-BY,IL_3116750,"Malignant::Malignant epidermal proliferations::Squamous cell carcinoma, Invasive",Malignant,Malignant epidermal proliferations,"Squamous cell carcinoma, Invasive",,,,99.7625887393951,2
+ISIC_3265795,0,Memorial Sloan Kettering Cancer Center,CC-BY,,Benign,Benign,,,,,,87.0499193668365,0
+ISIC_9521236,0,Memorial Sloan Kettering Cancer Center,CC-BY,,Benign,Benign,,,,,,100.0,0
+ISIC_9666392,0,Memorial Sloan Kettering Cancer Center,CC-BY,,Benign,Benign,,,,,,100.0,0
+ISIC_0339707,0,Memorial Sloan Kettering Cancer Center,CC-BY,,Benign,Benign,,,,,,99.88638,0
+ISIC_8808515,0,Memorial Sloan Kettering Cancer Center,CC-BY,,Benign,Benign,,,,,,75.79418,0
+ISIC_5661573,1,Memorial Sloan Kettering Cancer Center,CC-BY,IL_7347014,Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,,,,99.99934,2
+ISIC_7324271,0,Memorial Sloan Kettering Cancer Center,CC-BY,,Benign,Benign,,,,,,99.99952,0
+ISIC_1572284,0,Memorial Sloan Kettering Cancer Center,CC-BY,,Benign,Benign,,,,,,99.99998,0
+ISIC_1538972,0,Memorial Sloan Kettering Cancer Center,CC-BY,,Benign,Benign,,,,,,98.85075,0
+ISIC_6421412,0,"Frazer Institute, The University of Queensland, Dermatology Research Centre",CC-BY,IL_0943179,Benign,Benign,,,,,,99.9992,0
+ISIC_0408426,0,Memorial Sloan Kettering Cancer Center,CC-BY,,Benign,Benign,,,,,,100.0,0
+ISIC_2836387,0,Memorial Sloan Kettering Cancer Center,CC-BY,,Benign,Benign,,,,,,99.9999642372131,0
+ISIC_9495306,0,Memorial Sloan Kettering Cancer Center,CC-BY,,Benign,Benign,,,,,,94.9752449989319,0
+ISIC_9972649,1,Memorial Sloan Kettering Cancer Center,CC-BY,IL_7739568,Malignant::Malignant epidermal proliferations::Squamous cell carcinoma in situ,Malignant,Malignant epidermal proliferations,Squamous cell carcinoma in situ,,,,86.04829,2
+ISIC_7486269,0,"Frazer Institute, The University of Queensland, Dermatology Research Centre",CC-BY,,Benign,Benign,,,,,,99.99646,0
+ISIC_7450066,1,Memorial Sloan Kettering Cancer Center,CC-BY,IL_1962425,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular",Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Basal cell carcinoma, Nodular",,,98.74173,3
+ISIC_3461061,0,Memorial Sloan Kettering Cancer Center,CC-BY,,Benign,Benign,,,,,,99.99987,0
+ISIC_8852993,1,Memorial Sloan Kettering Cancer Center,CC-BY,IL_1655369,Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,,,,99.968,2
+ISIC_7748442,1,Memorial Sloan Kettering Cancer Center,CC-BY,IL_7839651,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Superficial",Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Basal cell carcinoma, Superficial",,,98.8098204135895,3
+ISIC_2596998,0,Memorial Sloan Kettering Cancer Center,CC-BY,,Benign,Benign,,,,,,99.91561,0
+ISIC_1603019,0,"Frazer Institute, The University of Queensland, Dermatology Research Centre",CC-BY,,Benign,Benign,,,,,,99.998676776886,0
+ISIC_4383628,0,"Frazer Institute, The University of Queensland, Dermatology Research Centre",CC-BY,,Benign,Benign,,,,,,99.9888062477112,0
+ISIC_6171600,0,Memorial Sloan Kettering Cancer Center,CC-BY,,Benign,Benign,,,,,,99.99999,0
+ISIC_4531481,0,Memorial Sloan Kettering Cancer Center,CC-BY,IL_0638025,Benign,Benign,,,,,,99.78893,0
+ISIC_4174300,0,Memorial Sloan Kettering Cancer Center,CC-BY,,Benign,Benign,,,,,,99.3479371070862,0
+ISIC_6095295,1,Memorial Sloan Kettering Cancer Center,CC-BY,IL_1325655,Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,,,,100.0,2
+ISIC_8111620,0,ACEMID MIA,CC-0,,Benign,Benign,,,,,,99.9877,0
+ISIC_9533979,0,"Department of Dermatology, University of Athens, Andreas Syggros Hospital of Skin and Venereal Diseases, Alexander Stratigos, Konstantinos Liopyris",CC-BY,,Benign,Benign,,,,,,99.9995946884155,0
+ISIC_8897372,0,Memorial Sloan Kettering Cancer Center,CC-BY,IL_8431975,Benign,Benign,,,,,,99.99582,0
+ISIC_3521698,1,"Frazer Institute, The University of Queensland, Dermatology Research Centre",CC-BY,IL_8100994,Malignant::Malignant epidermal proliferations::Squamous cell carcinoma in situ,Malignant,Malignant epidermal proliferations,Squamous cell carcinoma in situ,,,,99.0276098251343,2
+ISIC_1542266,0,Memorial Sloan Kettering Cancer Center,CC-BY,,Benign,Benign,,,,,,50.69453,0
+ISIC_6798815,1,Memorial Sloan Kettering Cancer Center,CC-BY,IL_5374470,Malignant::Malignant epidermal proliferations::Squamous cell carcinoma in situ,Malignant,Malignant epidermal proliferations,Squamous cell carcinoma in situ,,,,99.9940872192383,2
+ISIC_3070870,0,Memorial Sloan Kettering Cancer Center,CC-BY,,Benign,Benign,,,,,,99.58938,0
+ISIC_8229288,0,ACEMID MIA,CC-0,,Benign,Benign,,,,,,92.53433,0
+ISIC_1741809,1,Memorial Sloan Kettering Cancer Center,CC-BY,IL_7278028,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Superficial",Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Basal cell carcinoma, Superficial",,,94.80697,3
+ISIC_6708619,0,ACEMID MIA,CC-0,,Benign,Benign,,,,,,99.999988079071,0
+ISIC_4318706,0,Memorial Sloan Kettering Cancer Center,CC-BY,,Benign,Benign,,,,,,99.99998,0
+ISIC_8546843,1,Memorial Sloan Kettering Cancer Center,CC-BY,IL_9460914,Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,,,,74.8310565948486,2
+ISIC_4429864,0,"Frazer Institute, The University of Queensland, Dermatology Research Centre",CC-BY,,Benign,Benign,,,,,,98.3741402626038,0
+ISIC_5204454,1,Memorial Sloan Kettering Cancer Center,CC-BY,IL_7324725,Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma Invasive,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,,,0.2,0.0409543252317234,2
+ISIC_0429895,1,Memorial Sloan Kettering Cancer Center,CC-BY,IL_5423697,"Malignant::Malignant epidermal proliferations::Squamous cell carcinoma, Invasive",Malignant,Malignant epidermal proliferations,"Squamous cell carcinoma, Invasive",,,,2.25657945662761e-06,2
+ISIC_2693586,0,Memorial Sloan Kettering Cancer Center,CC-BY,,Benign,Benign,,,,,,68.69969,0
+ISIC_1105843,1,Memorial Sloan Kettering Cancer Center,CC-BY,IL_5067478,Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,,,,99.9996900558472,2
+ISIC_3093714,1,Memorial Sloan Kettering Cancer Center,CC-BY,IL_6927581,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Superficial",Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Basal cell carcinoma, Superficial",,,83.22179,3
+ISIC_3089086,0,Memorial Sloan Kettering Cancer Center,CC-BY,,Benign,Benign,,,,,,99.9997496604919,0
+ISIC_6504468,0,"Frazer Institute, The University of Queensland, Dermatology Research Centre",CC-BY,,Benign,Benign,,,,,,99.9793,0
+ISIC_7914947,0,ACEMID MIA,CC-0,,Benign,Benign,,,,,,99.99559,0
+ISIC_2318247,1,Memorial Sloan Kettering Cancer Center,CC-BY,IL_4737294,Malignant::Malignant epidermal proliferations::Squamous cell carcinoma in situ,Malignant,Malignant epidermal proliferations,Squamous cell carcinoma in situ,,,,99.9000370502472,2
+ISIC_8628897,0,"Frazer Institute, The University of Queensland, Dermatology Research Centre",CC-BY,IL_5090055,Benign,Benign,,,,,,99.99995,0
+ISIC_5035525,1,Memorial Sloan Kettering Cancer Center,CC-BY,IL_3913980,Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,,,,99.99648,2
+ISIC_8509643,0,Memorial Sloan Kettering Cancer Center,CC-BY,,Benign,Benign,,,,,,99.95592,0
+ISIC_3744161,1,ACEMID MIA,CC-0,IL_8142693,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma Invasive::Melanoma Invasive, Superficial spreading",Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,"Melanoma Invasive, Superficial spreading",<1/mm^2,0.5,99.11209,3
+ISIC_7499766,1,"Frazer Institute, The University of Queensland, Dermatology Research Centre",CC-BY,IL_3440998,Malignant::Malignant epidermal proliferations::Squamous cell carcinoma in situ,Malignant,Malignant epidermal proliferations,Squamous cell carcinoma in situ,,,,99.3006348609924,2
+ISIC_4155077,0,Memorial Sloan Kettering Cancer Center,CC-BY,IL_9031424,Benign,Benign,,,,,,100.0,0
+ISIC_4450662,0,ACEMID MIA,CC-0,,Benign,Benign,,,,,,99.94705,0
+ISIC_3091180,1,Memorial Sloan Kettering Cancer Center,CC-BY,IL_5270495,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular",Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Basal cell carcinoma, Nodular",,,15.2408346533775,3
+ISIC_7647494,1,Memorial Sloan Kettering Cancer Center,CC-BY,IL_0325520,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular",Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Basal cell carcinoma, Nodular",,,99.9341905117035,3
+ISIC_7160427,1,"Frazer Institute, The University of Queensland, Dermatology Research Centre",CC-BY,IL_9682482,Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,,,,99.98001,2
+ISIC_4882116,1,Memorial Sloan Kettering Cancer Center,CC-BY,IL_0240732,Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma Invasive,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,,,0.3,99.91415,2
+ISIC_0139017,0,Memorial Sloan Kettering Cancer Center,CC-BY,,Benign,Benign,,,,,,100.0,0
+ISIC_8153765,1,Memorial Sloan Kettering Cancer Center,CC-BY,IL_8184361,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma Invasive::Melanoma Invasive, Superficial spreading",Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,"Melanoma Invasive, Superficial spreading",<1/mm^2,0.3,99.8097240924835,3
+ISIC_1071408,1,"Frazer Institute, The University of Queensland, Dermatology Research Centre",CC-BY,IL_8844859,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular",Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Basal cell carcinoma, Nodular",,,99.99031,3
+ISIC_5990594,1,Memorial Sloan Kettering Cancer Center,CC-BY,IL_7055522,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Nodular",Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Basal cell carcinoma, Nodular",,,99.993622303009,3
+ISIC_8966407,1,Memorial Sloan Kettering Cancer Center,CC-BY,IL_3455545,"Malignant::Malignant epidermal proliferations::Squamous cell carcinoma, Invasive::Squamous cell carcinoma, Invasive, Keratoacanthoma-type",Malignant,Malignant epidermal proliferations,"Squamous cell carcinoma, Invasive","Squamous cell carcinoma, Invasive, Keratoacanthoma-type",,,62.0836555957794,3
+ISIC_3279042,0,ACEMID MIA,CC-0,,Benign,Benign,,,,,,99.8747944831848,0
+ISIC_4368726,0,Memorial Sloan Kettering Cancer Center,CC-BY,,Benign,Benign,,,,,,99.98106,0
+ISIC_8564282,0,Memorial Sloan Kettering Cancer Center,CC-BY,,Benign,Benign,,,,,,99.57074,0
+ISIC_8635236,0,Memorial Sloan Kettering Cancer Center,CC-BY,,Benign,Benign,,,,,,100.0,0
+ISIC_3499423,0,ACEMID MIA,CC-0,,Benign,Benign,,,,,,98.3398675918579,0
+ISIC_9736123,0,"Frazer Institute, The University of Queensland, Dermatology Research Centre",CC-BY,,Benign,Benign,,,,,,99.99478,0
+ISIC_2439617,1,Memorial Sloan Kettering Cancer Center,CC-BY,IL_9821674,"Malignant::Malignant melanocytic proliferations (Melanoma)::Melanoma in situ::Melanoma in situ, Lentigo maligna type",Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,"Melanoma in situ, Lentigo maligna type",,,99.99996,3
+ISIC_5736176,0,Memorial Sloan Kettering Cancer Center,CC-BY,,Benign,Benign,,,,,,99.99976,0
+ISIC_0108850,0,Memorial Sloan Kettering Cancer Center,CC-BY,,Benign,Benign,,,,,,100.0,0
+ISIC_7800702,1,Memorial Sloan Kettering Cancer Center,CC-BY,IL_3694556,Malignant::Malignant epidermal proliferations::Squamous cell carcinoma in situ,Malignant,Malignant epidermal proliferations,Squamous cell carcinoma in situ,,,,97.3991870880127,2
+ISIC_0565021,1,Memorial Sloan Kettering Cancer Center,CC-BY,IL_2509569,"Malignant::Malignant adnexal epithelial proliferations - Follicular::Basal cell carcinoma::Basal cell carcinoma, Superficial",Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,"Basal cell carcinoma, Superficial",,,99.9927282333374,3

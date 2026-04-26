@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Models (too large)
+models/*.pth
+
+# Data (huge files)
+data/ISIC_2024_Permissive_Training_Input/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
