@@ -130,13 +130,6 @@ img = cv2.imread('data/final_subset_images/ISIC_0081966.jpg')
 ## License & Attribution
 The repository contains public ISIC data. Please review `data/ISIC_2024_Permissive_Training_Input/ATTRIBUTION.txt` and `LICENSE.txt` for dataset-specific licensing and attribution requirements.
 
----
-
-## Want more?
-- I can add a polished single-image inference script with CLI.
-- I can add a Jupyter demo notebook that shows model predictions next to images and interactive sliders.
-
-If you want either, say which (notebook or single-image CLI) and I’ll add it next.
 
 ---
 
